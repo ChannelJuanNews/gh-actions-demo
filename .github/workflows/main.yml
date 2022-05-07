@@ -6,6 +6,7 @@ on:
         branches:
             - dev
             - main
+            - master
 # Jobs to carry out
 jobs:
     test:
